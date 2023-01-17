@@ -5,7 +5,9 @@ tutorial/node_modules
 tutorial/.pnp
 tutorial/.pnp.js
 testing/node_modules
-
+react-advanced-2020/node_modules
+react-advanced-2020/.pnp
+react-advanced-2020/.pnp.js
 # testing
 /coverage
 
